@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="424860" started-at="2018-07-20T07:21:27Z" finished-at="2018-07-20T07:28:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="424860" started-at="2018-07-20T07:21:27Z" finished-at="2018-07-20T07:28:32Z">
+      <class name="com.orangeHRM.qa.tests.RegisterPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="36038" started-at="2018-07-20T00:21:27Z" finished-at="2018-07-20T00:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyUserRegister()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifyUserRegister" duration-ms="3756" started-at="2018-07-20T00:22:03Z" finished-at="2018-07-20T00:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserRegister -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="728" started-at="2018-07-20T00:22:07Z" finished-at="2018-07-20T00:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="34127" started-at="2018-07-20T00:22:09Z" finished-at="2018-07-20T00:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="3414" started-at="2018-07-20T00:22:44Z" data-provider="data" finished-at="2018-07-20T00:22:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[krishna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[krishna]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="706" started-at="2018-07-20T00:22:47Z" finished-at="2018-07-20T00:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33950" started-at="2018-07-20T00:22:48Z" finished-at="2018-07-20T00:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="2905" started-at="2018-07-20T00:23:22Z" data-provider="data" finished-at="2018-07-20T00:23:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[venkat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[venkat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="722" started-at="2018-07-20T00:23:25Z" finished-at="2018-07-20T00:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33965" started-at="2018-07-20T00:23:25Z" finished-at="2018-07-20T00:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="2965" started-at="2018-07-20T00:23:59Z" data-provider="data" finished-at="2018-07-20T00:24:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="732" started-at="2018-07-20T00:24:02Z" finished-at="2018-07-20T00:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33951" started-at="2018-07-20T00:24:03Z" finished-at="2018-07-20T00:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="3232" started-at="2018-07-20T00:24:37Z" data-provider="data" finished-at="2018-07-20T00:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rohan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="734" started-at="2018-07-20T00:24:40Z" finished-at="2018-07-20T00:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33979" started-at="2018-07-20T00:24:41Z" finished-at="2018-07-20T00:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="3038" started-at="2018-07-20T00:25:15Z" data-provider="data" finished-at="2018-07-20T00:25:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="704" started-at="2018-07-20T00:25:18Z" finished-at="2018-07-20T00:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33945" started-at="2018-07-20T00:25:19Z" finished-at="2018-07-20T00:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="3001" started-at="2018-07-20T00:25:53Z" data-provider="data" finished-at="2018-07-20T00:25:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="713" started-at="2018-07-20T00:25:56Z" finished-at="2018-07-20T00:25:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33963" started-at="2018-07-20T00:25:56Z" finished-at="2018-07-20T00:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="3053" started-at="2018-07-20T00:26:30Z" data-provider="data" finished-at="2018-07-20T00:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[albert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[albert]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="705" started-at="2018-07-20T00:26:33Z" finished-at="2018-07-20T00:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33848" started-at="2018-07-20T00:26:34Z" finished-at="2018-07-20T00:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="5629" started-at="2018-07-20T00:27:08Z" data-provider="data" finished-at="2018-07-20T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[michelle]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[michelle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="704" started-at="2018-07-20T00:27:13Z" finished-at="2018-07-20T00:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="33765" started-at="2018-07-20T00:27:14Z" finished-at="2018-07-20T00:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="2984" started-at="2018-07-20T00:27:48Z" data-provider="data" finished-at="2018-07-20T00:27:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amanda]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amanda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="732" started-at="2018-07-20T00:27:51Z" finished-at="2018-07-20T00:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="initialize" is-config="true" duration-ms="34442" started-at="2018-07-20T00:27:52Z" finished-at="2018-07-20T00:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifymultiRegistration(java.lang.String, java.lang.String)[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="VerifymultiRegistration" duration-ms="5492" started-at="2018-07-20T00:28:26Z" data-provider="data" finished-at="2018-07-20T00:28:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chintu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chintu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifymultiRegistration -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.orangeHRM.qa.tests.RegisterPageTest@271053e1]" name="close" is-config="true" duration-ms="703" started-at="2018-07-20T00:28:32Z" finished-at="2018-07-20T00:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.orangeHRM.qa.tests.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
